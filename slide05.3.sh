@@ -1,0 +1,5 @@
+echo "task11. Shortcuts"
+echo "command combines add and commit and don't add new files'>"
+git commit -am "combines add and commit"
+echo "command combines add and commit all changed and added files"
+git add . && git commit -am "add && commit command "
